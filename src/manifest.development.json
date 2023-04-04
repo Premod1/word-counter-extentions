@@ -2,23 +2,19 @@
     "manifest_version": 3,
     "name": "Word-counter",
     "description": "chrome extension",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "icons": {
+        "128": "Word.png"
+      },
     "background": {
         "service_worker": "/background.js"
     },
+   
+
     "action": {
         "default_title": "Click hire to open app"
         
       },
-    "content_scripts": [
-        {
-            "matches": [
-                "<all_urls>"
-            ],
-            "js": [
-                "/content.js"
-            ]
-        }
-    ],
+  
     "options_page": "options.html"
 }
