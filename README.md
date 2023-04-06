@@ -1,5 +1,8 @@
 # word-counter
 
+## Install Application Link
+https://chrome.google.com/webstore/detail/word-counter/ffcmhcopenoblepgdafmbcmfkibcfdea
+
 ## Project setup
 ```
 npm install
