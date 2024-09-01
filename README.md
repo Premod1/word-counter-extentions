@@ -20,3 +20,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![image](https://github.com/user-attachments/assets/9b8139a2-4e32-4253-96d1-05a739bb358a)
+
+
+
